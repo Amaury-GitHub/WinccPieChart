@@ -597,6 +597,7 @@ namespace WinccPieChart
             }
         }
         //元素参数组
+
         public WinccPieChart()
         {
             InitializeComponent();

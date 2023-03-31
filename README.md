@@ -9,3 +9,6 @@
 可以定义是否显示元素的数值<br>
 可以定义元素的标签显示在饼图内或者外面<br>
 可以扩展饼图的元素,每个元素的标签与颜色都可以自定义,最多8个,应该够用了<br>
+![image](https://github.com/Amaury-GitHub/WinccPieChart/blob/main/README_IMG/IMG1.png)<br>
+![image](https://github.com/Amaury-GitHub/WinccPieChart/blob/main/README_IMG/IMG2.png)<br>
+![image](https://github.com/Amaury-GitHub/WinccPieChart/blob/main/README_IMG/IMG3.png)<br>

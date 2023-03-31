@@ -1,8 +1,0 @@
-D:\Play\VS\WinccPieChart\bin\Debug\WinccPieChart.dll
-D:\Play\VS\WinccPieChart\bin\Debug\WinccPieChart.pdb
-D:\Play\VS\WinccPieChart\obj\Debug\WinccPieChart.csproj.AssemblyReference.cache
-D:\Play\VS\WinccPieChart\obj\Debug\WinccPieChart.WinccPieChart.resources
-D:\Play\VS\WinccPieChart\obj\Debug\WinccPieChart.csproj.GenerateResource.cache
-D:\Play\VS\WinccPieChart\obj\Debug\WinccPieChart.csproj.CoreCompileInputs.cache
-D:\Play\VS\WinccPieChart\obj\Debug\WinccPieChart.dll
-D:\Play\VS\WinccPieChart\obj\Debug\WinccPieChart.pdb
